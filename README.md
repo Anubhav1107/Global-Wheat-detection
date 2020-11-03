@@ -8,3 +8,5 @@ I made the model using Pytorch R-CNN. The accuracy I got was 65% but It was able
 ![](https://github.com/Anubhav1107/Global-Wheat-detection/blob/main/Images/Wheat1.png)
 ![](https://github.com/Anubhav1107/Global-Wheat-detection/blob/main/Images/wheat2.jpeg)
 ![](https://github.com/Anubhav1107/Global-Wheat-detection/blob/main/Images/wheat3.jpeg)
+
+This model can be used to automatically detect the wheat heads annd by counting can detect whether its ready to be harvest or not.
