@@ -1,4 +1,7 @@
 # Global-Wheat-detection
+
+The web app is deployed on https://share.streamlit.io/anubhav1107/streamlit/streamlit.py
+
 The Challenge was from Kaggle to detect wheat heads of wheat 
 
 The dataset can be found at https://www.kaggle.com/c/global-wheat-detection
